@@ -1,0 +1,16 @@
+BasedOnStyle: LLVm
+IndentWidth: 4
+UseTab: Never
+ColumnLimit: 120
+AlignAfterOpenBracket: Align
+AlignConsecutiveMacros: false
+AlignOperands: Align
+AllowAllParametersOfDeclarationOnNextLine: false
+
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortBlocksOnASingleLine: Always
+AllowShortCaseLabelsOnASingleLine: true
+AllowShortFunctionsOnASingleLine: Empty
+AllowShortLoopsOnASingleLine: false
+
+PointerAlignment: Right
